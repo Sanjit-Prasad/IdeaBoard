@@ -7,6 +7,7 @@
 ![alt text](https://github.com/Sanjit-Prasad/IdeaBoard/blob/main/images/new.png?raw=true)
 
 * Delete any idea by hover on it and select red cross
+
 ![alt text](https://github.com/Sanjit-Prasad/IdeaBoard/blob/main/images/delete.png?raw=true)
 
 * For more visit here
