@@ -1,0 +1,19 @@
+.App {
+  font-size: large;
+}
+
+.App-header {
+  text-align: center;
+  height: 150px;
+  padding: 20px;
+}
+
+.title {
+  height: 150px;
+  width: 150px;
+  margin: 10px;
+  background: lightyellow;
+  float: left;
+  font-size: 11px;
+  text-align: left;
+}
