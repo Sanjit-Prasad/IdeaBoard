@@ -39,7 +39,9 @@ class IdeaForm extends Component {
         <form onBlur={this.handleBlur}>
           <input className='input' type="text"
             name="title" placeholder='Enter a Title'
-            value={this.state.title} onChange={this.handleInput}  
+            value={this.state.title}
+            onChange={this.handleInput}
+            ref={this.props.titleRef}
           />
           <hr />
           <textarea className='input' name="body"
